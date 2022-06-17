@@ -18,3 +18,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 12. Char Aznable（機動戦士ガンダム 逆襲のシャア）
 13. Athrun Zala（機動戦士ガンダムSEED ）
 14. Anya
+15. AKIRA

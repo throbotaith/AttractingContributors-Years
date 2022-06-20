@@ -19,3 +19,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 13. Athrun Zala（機動戦士ガンダムSEED ）
 14. Anya
 15. AKIRA
+16. Kurotsuchi Mayuri (Bleach)
